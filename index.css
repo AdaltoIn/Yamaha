@@ -148,3 +148,67 @@ footer{
     margin: auto;
     padding-top: 30px;
 }
+
+@media only screen and (max-width: 450px) {
+    body {
+      background-color: lightblue;
+    }
+
+    .container{
+        display: block;
+    }
+
+    .img1{
+        width: 400px;
+        display: inline-block;
+    }
+
+    .p1{
+        background-color: red;
+        width: 93%;
+        font-size: 12pt;
+        margin-right: 12px;
+    }
+
+    .p2{
+        background-color: red;
+        width: 93%;
+        font-size: 12pt;
+        margin-right: 12px;
+    }
+
+    
+    .p5{
+        background-color: red;
+        width: 93%;
+        font-size: 12pt;
+        margin-right: 12px;
+    }
+
+
+
+    .img2{
+        width: 93%;
+        display: inline-block;
+    }
+
+
+    .img3{
+        width: 400px;
+        display: inline-block;
+    }
+
+    .img4{
+        width: 400px;
+        display: inline-block;
+    }
+
+    .img5{
+        width: 400px;
+        display: inline-block;
+    }
+    .p1{
+        display: inline-block   ;
+    }
+
+  }
